@@ -14,6 +14,15 @@
 		EF231F821A70F8EF001DC226 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF231F811A70F8EF001DC226 /* Images.xcassets */; };
 		EF231F851A70F8EF001DC226 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF231F831A70F8EF001DC226 /* LaunchScreen.xib */; };
 		EF231F911A70F8EF001DC226 /* exoCourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231F901A70F8EF001DC226 /* exoCourTests.m */; };
+		EF231F9C1A71013D001DC226 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231F9B1A71013D001DC226 /* SecondViewController.m */; };
+		EF231F9F1A7101D2001DC226 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231F9E1A7101D2001DC226 /* ThirdViewController.m */; };
+		EF231FA21A710E3B001DC226 /* MotherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231FA11A710E3B001DC226 /* MotherViewController.m */; };
+		EF231FA51A7135B0001DC226 /* banane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF231FA41A7135B0001DC226 /* banane.jpg */; };
+		EF231FA71A7135BA001DC226 /* fraise.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF231FA61A7135BA001DC226 /* fraise.jpg */; };
+		EF231FA91A7135CA001DC226 /* pomme.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF231FA81A7135CA001DC226 /* pomme.jpg */; };
+		EF231FAC1A713961001DC226 /* MaCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231FAB1A713961001DC226 /* MaCustomCell.m */; };
+		EF231FAF1A87CE07001DC226 /* ProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF231FAE1A87CE07001DC226 /* ProjectViewController.m */; };
+		EFEB71E31A88F8BE003D8D5F /* MaCustomCellTask.m in Sources */ = {isa = PBXBuildFile; fileRef = EFEB71E21A88F8BE003D8D5F /* MaCustomCellTask.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +49,21 @@
 		EF231F8A1A70F8EF001DC226 /* exoCourTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = exoCourTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF231F8F1A70F8EF001DC226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF231F901A70F8EF001DC226 /* exoCourTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = exoCourTests.m; sourceTree = "<group>"; };
+		EF231F9A1A71013D001DC226 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		EF231F9B1A71013D001DC226 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		EF231F9D1A7101D2001DC226 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		EF231F9E1A7101D2001DC226 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		EF231FA01A710E3B001DC226 /* MotherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MotherViewController.h; sourceTree = "<group>"; };
+		EF231FA11A710E3B001DC226 /* MotherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MotherViewController.m; sourceTree = "<group>"; };
+		EF231FA41A7135B0001DC226 /* banane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = banane.jpg; path = ../../../Desktop/banane.jpg; sourceTree = "<group>"; };
+		EF231FA61A7135BA001DC226 /* fraise.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fraise.jpg; path = ../../../Desktop/fraise.jpg; sourceTree = "<group>"; };
+		EF231FA81A7135CA001DC226 /* pomme.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pomme.jpg; path = ../../../Desktop/pomme.jpg; sourceTree = "<group>"; };
+		EF231FAA1A713961001DC226 /* MaCustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaCustomCell.h; sourceTree = "<group>"; };
+		EF231FAB1A713961001DC226 /* MaCustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MaCustomCell.m; sourceTree = "<group>"; };
+		EF231FAD1A87CE07001DC226 /* ProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProjectViewController.h; sourceTree = "<group>"; };
+		EF231FAE1A87CE07001DC226 /* ProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProjectViewController.m; sourceTree = "<group>"; };
+		EFEB71E11A88F8BE003D8D5F /* MaCustomCellTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MaCustomCellTask.h; sourceTree = "<group>"; };
+		EFEB71E21A88F8BE003D8D5F /* MaCustomCellTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MaCustomCellTask.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,14 +105,27 @@
 		EF231F731A70F8EF001DC226 /* exoCour */ = {
 			isa = PBXGroup;
 			children = (
+				EF231FA31A713527001DC226 /* Images */,
 				EF231F781A70F8EF001DC226 /* AppDelegate.h */,
 				EF231F791A70F8EF001DC226 /* AppDelegate.m */,
+				EF231F9A1A71013D001DC226 /* SecondViewController.h */,
+				EF231F9B1A71013D001DC226 /* SecondViewController.m */,
+				EF231F9D1A7101D2001DC226 /* ThirdViewController.h */,
+				EF231F9E1A7101D2001DC226 /* ThirdViewController.m */,
 				EF231F7B1A70F8EF001DC226 /* ViewController.h */,
 				EF231F7C1A70F8EF001DC226 /* ViewController.m */,
+				EF231FAD1A87CE07001DC226 /* ProjectViewController.h */,
+				EF231FAE1A87CE07001DC226 /* ProjectViewController.m */,
 				EF231F7E1A70F8EF001DC226 /* Main.storyboard */,
 				EF231F811A70F8EF001DC226 /* Images.xcassets */,
 				EF231F831A70F8EF001DC226 /* LaunchScreen.xib */,
 				EF231F741A70F8EF001DC226 /* Supporting Files */,
+				EF231FA01A710E3B001DC226 /* MotherViewController.h */,
+				EF231FA11A710E3B001DC226 /* MotherViewController.m */,
+				EF231FAA1A713961001DC226 /* MaCustomCell.h */,
+				EF231FAB1A713961001DC226 /* MaCustomCell.m */,
+				EFEB71E11A88F8BE003D8D5F /* MaCustomCellTask.h */,
+				EFEB71E21A88F8BE003D8D5F /* MaCustomCellTask.m */,
 			);
 			path = exoCour;
 			sourceTree = "<group>";
@@ -117,6 +154,16 @@
 				EF231F8F1A70F8EF001DC226 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EF231FA31A713527001DC226 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				EF231FA81A7135CA001DC226 /* pomme.jpg */,
+				EF231FA61A7135BA001DC226 /* fraise.jpg */,
+				EF231FA41A7135B0001DC226 /* banane.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,8 +246,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF231FA71A7135BA001DC226 /* fraise.jpg in Resources */,
 				EF231F801A70F8EF001DC226 /* Main.storyboard in Resources */,
+				EF231FA91A7135CA001DC226 /* pomme.jpg in Resources */,
 				EF231F851A70F8EF001DC226 /* LaunchScreen.xib in Resources */,
+				EF231FA51A7135B0001DC226 /* banane.jpg in Resources */,
 				EF231F821A70F8EF001DC226 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,7 +269,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF231FAF1A87CE07001DC226 /* ProjectViewController.m in Sources */,
+				EFEB71E31A88F8BE003D8D5F /* MaCustomCellTask.m in Sources */,
+				EF231F9C1A71013D001DC226 /* SecondViewController.m in Sources */,
+				EF231FAC1A713961001DC226 /* MaCustomCell.m in Sources */,
+				EF231F9F1A7101D2001DC226 /* ThirdViewController.m in Sources */,
 				EF231F7D1A70F8EF001DC226 /* ViewController.m in Sources */,
+				EF231FA21A710E3B001DC226 /* MotherViewController.m in Sources */,
 				EF231F7A1A70F8EF001DC226 /* AppDelegate.m in Sources */,
 				EF231F771A70F8EF001DC226 /* main.m in Sources */,
 			);
@@ -412,6 +468,7 @@
 				EF231F961A70F8EF001DC226 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EF231F971A70F8EF001DC226 /* Build configuration list for PBXNativeTarget "exoCourTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +477,7 @@
 				EF231F991A70F8EF001DC226 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
